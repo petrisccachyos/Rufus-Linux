@@ -1,4 +1,4 @@
-Rufus: The Reliable USB Formatting Utility
+Rufus: The Reliable USB Formatting Utility. On Linux!
 ==========================================
 
 ![Rufus logo](https://raw.githubusercontent.com/pbatard/rufus/master/res/icons/rufus-128.png)
